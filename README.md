@@ -22,3 +22,10 @@ github.com/xuri/excelize/v2 ==> write excel file
   beginDate             string = "2023-02-01"
   endDate               string = "2023-02-28"
   ```
+
+## Result
+File generated : {repo_name}_2023-02-01_2023-02-28.xlsx
+
+File content
+
+![image](https://user-images.githubusercontent.com/4423126/223007565-b087dc01-e69c-46af-95ae-f1c24f5a473f.png)
